@@ -1,0 +1,55 @@
+## Build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Rider IDE
+.idea/
+
+## ASP.NET Secrets
+secrets.json
+
+## Logs
+*.log
+
+## Dependency directories
+node_modules/
+bower_components/
+
+## Runtime files
+*.db
+*.db-shm
+*.db-wal
+
+## ASP.NET Core environment
+appsettings.Development.json
+
+## Publish output
+publish/
+out/
+artifacts/
+
+## Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+## Mac OS
+.DS_Store
+
+## Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+## Others
+wwwroot/lib/
